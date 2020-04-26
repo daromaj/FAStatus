@@ -1,0 +1,2 @@
+tqdm~=4.45.0
+setuptools~=46.1.3
